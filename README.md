@@ -1,0 +1,2 @@
+# Four-Cubes-Problem-Traffic-Light-Puzzle
+The puzzle is made up of four dice with colored dots like a traffic light. Each of the dice has red, green, blue, or yellow on the sides arranged in a certain way and no two dice are the same. The objective is to arrange all four dice, stacked side-by-side, so that there will be four different colors appearing on the front, top, back, and bottom. There are 82944 ways of stacking these dice and there is only one solution. 
